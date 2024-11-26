@@ -1,5 +1,3 @@
-const API_URL  = "https://backend-kappa-black.vercel.app/posts"
-
 // Função para buscar os dados do endpoint
 async function fetchImages() {
   try {
